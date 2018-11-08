@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora personalizada</string>
+    <string name="calcula">Calcular</string>
+    <string name="limpia">Limpiar</string>
+    <string name="numeroText">Escribe un número</string>
+    <string name="regresar_boton">Regresar</string>
+    <string name="aceptar_boton">Aceptar</string>
+    <string name="opcion_suma">Suma</string>
+    <string name="opcion_resta">Resta</string>
+    <string name="opcion_multiplica">Multiplicación</string>
+    <string name="opcion_divide">División</string>
+    <string name="resultadoText">Resultado</string>
+    <string name="textview">TextView</string>
+    <string name="nombreText">Escribe tu nombre</string>
+</resources>
